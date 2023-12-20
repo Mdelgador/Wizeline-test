@@ -1,0 +1,8 @@
+{
+ "email" : "wl.interview.session@gmail.com", 
+ "password": "WL2021&*",
+ "website": "https://app.todoist.com/auth/login?success_page=%2Fapp%2F",
+ "taskName": "Miguel Delgado cypress task",
+ "taskDescription": "Hola soy una task creada con Cypress"
+
+}
